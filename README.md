@@ -10,3 +10,4 @@
 9.) Contains Configurations and data.sql for populating tables at the start
 10.) Github
 11.) Postman
+**NOTE: Target Folder Is Not Included In Push, as this file contains more than 60 MB Storage**
